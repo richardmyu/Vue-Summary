@@ -13,7 +13,7 @@
     "element-ui": "^2.12.0",
     "flex.css": "1.1.7",
     "localforage": "^1.7.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "nprogress": "0.2.0",
     "scroll-into-view-if-needed": "^2.2.20",
     "vue": "^2.6.10",
